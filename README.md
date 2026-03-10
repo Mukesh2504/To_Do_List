@@ -36,8 +36,7 @@ Deploy the website.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
-```
-html
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -62,8 +61,7 @@ html
 </body>
 </html>
 ```
-```
-css
+```css
 body{
 font-family: Arial;
 background-color: #f2f2f2;
