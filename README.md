@@ -36,6 +36,7 @@ Deploy the website.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
+### HTLM
 ```html
 <!DOCTYPE html>
 <html>
@@ -61,6 +62,7 @@ Upload to GitHub Pages for free hosting.
 </body>
 </html>
 ```
+### CSS
 ```css
 body{
 font-family: Arial;
@@ -106,6 +108,7 @@ border: none;
 cursor: pointer;
 }
 ```
+### JS
 ```js
 function addTask(){
 
